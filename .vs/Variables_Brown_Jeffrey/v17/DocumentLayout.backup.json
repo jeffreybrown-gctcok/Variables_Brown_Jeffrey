@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JEFFREYBROWN\\OneDrive - Green Country Technology Center\\Documents\\School Work\\C# Beginner\\Intro to Variables\\Variables_Brown_Jeffrey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DCD37C-63E2-48D1-BB4B-8F55C789BE75}|Variables_Brown_Jeffrey.csproj|c:\\users\\jeffreybrown\\onedrive - green country technology center\\documents\\school work\\c# beginner\\intro to variables\\variables_brown_jeffrey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DCD37C-63E2-48D1-BB4B-8F55C789BE75}|Variables_Brown_Jeffrey.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREYBROWN\\OneDrive - Green Country Technology Center\\Documents\\School Work\\C# Beginner\\Intro to Variables\\Variables_Brown_Jeffrey\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JEFFREYBROWN\\OneDrive - Green Country Technology Center\\Documents\\School Work\\C# Beginner\\Intro to Variables\\Variables_Brown_Jeffrey\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:40:49.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
